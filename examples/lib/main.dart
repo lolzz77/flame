@@ -20,18 +20,18 @@ void main() async {
     theme: ThemeData.dark(),
   );
 
-  addAnimationStories(dashbook);
-  addComponentsStories(dashbook);
-  addCollisionDetectionStories(dashbook);
-  addEffectsStories(dashbook);
-  addTileMapStories(dashbook);
-  addInputStories(dashbook);
-  addSpritesStories(dashbook);
-  addRenderingStories(dashbook);
-  addUtilsStories(dashbook);
-  addCameraAndViewportStories(dashbook);
-  addParallaxStories(dashbook);
-  addWidgetsStories(dashbook);
+  // addAnimationStories(dashbook);
+  // addComponentsStories(dashbook);
+  // addCollisionDetectionStories(dashbook);
+  // addEffectsStories(dashbook);
+  // addTileMapStories(dashbook);
+  // addInputStories(dashbook);
+  // addSpritesStories(dashbook);
+  // addRenderingStories(dashbook);
+  // addUtilsStories(dashbook);
+  // addCameraAndViewportStories(dashbook);
+  // addParallaxStories(dashbook);
+  // addWidgetsStories(dashbook);
 
   runApp(dashbook);
 }
